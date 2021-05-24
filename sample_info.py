@@ -24,9 +24,9 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
-
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+**Hi, I'm Movie Search **
+To Copyrighted Movies are Forwarded To This .Join In This Channel @Tamilrockersvpn.To Use It 
+Click @TRVPNMOVIESBOT .This u see a file in list
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
