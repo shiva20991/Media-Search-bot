@@ -34,7 +34,9 @@ START_MSG = """
 **Hi, I'm Movie Search **
 
 To Copyrighted Movies are Forwarded To This .Join In This Channel @Tamilrockersvpn.To Use It 
-"""
+
 Click @TRVPNMOVIESBOT .This u see a file in list
+"""
+
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
 INVITE_MSG = environ.get('INVITE_MSG', 'Please join @.... to use this bot')
