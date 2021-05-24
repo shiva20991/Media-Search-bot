@@ -31,10 +31,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm Movie Search **
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+To Copyrighted Movies are Forwarded To This .Join In This Channel @Tamilrockersvpn.To Use It 
 """
-
+Click @TRVPNMOVIESBOT .This u see a file in list
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
 INVITE_MSG = environ.get('INVITE_MSG', 'Please join @.... to use this bot')
